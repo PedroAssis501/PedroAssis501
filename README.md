@@ -7,7 +7,7 @@
     <tr>
       <td style="border: 0;">
           <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api?username=gumends&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only"
+            src="https://github-readme-stats-steel-omega.vercel.app/api?username=PedroAssis501&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only"
             alt="My Github stats"
             height="370"
           />
